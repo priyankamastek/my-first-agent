@@ -1,0 +1,4 @@
+# Ahoy matey! These be the dependencies for our FastAPI vessel.
+fastapi
+httpx
+uvicorn
